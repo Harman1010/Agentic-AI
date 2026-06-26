@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+langchain-tavily
+langgraph
+langgraph-sdk
+langchain-google-community
+deepagents
